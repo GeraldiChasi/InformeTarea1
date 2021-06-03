@@ -650,6 +650,8 @@ Si se excede la especificación de voltaje del fusible se puede producir un arco
 
 4.VIDEO
 
+https://youtu.be/JNVroD8DKP4
+
 
 5. 	CONCLUSIONES Y RECOMENDACIONES:
 
