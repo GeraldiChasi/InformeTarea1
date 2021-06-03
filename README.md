@@ -64,6 +64,7 @@ d.	35 caballos de potencia a watts
 
 
 1-5 Prefijo, notación de ingeniería y resultados numéricos
+
 37.- ¿Cuál es el prefijo apropiado y su abreviatura para cada uno de los siguientes multiplicadores?
 
 ![image](https://user-images.githubusercontent.com/84587120/120602104-4ae56300-c410-11eb-85bd-facbdc1d8253.png)
@@ -77,6 +78,7 @@ d.	35 caballos de potencia a watts
 ![image](https://user-images.githubusercontent.com/84587120/120602246-78caa780-c410-11eb-8797-2ff126629835.png)
 
 40.-Convierta lo siguiente:
+
 •	a) 156 mV en volts
 
 ![image](https://user-images.githubusercontent.com/84587120/120602307-86802d00-c410-11eb-9f04-69328f3aaffb.png)
@@ -102,6 +104,7 @@ d.	35 caballos de potencia a watts
 ![image](https://user-images.githubusercontent.com/84587120/120602637-d65ef400-c410-11eb-83d4-3717b34e6787.png)
 
 41.-Determine los valores que se deben insertar en el espacio en blanco
+
 •	a)  150kV = 150 x 103 V = 0.15 x 106 V
 
 ![image](https://user-images.githubusercontent.com/84587120/120602694-e37be300-c410-11eb-9eb4-8a1fc0097a4f.png)
@@ -110,6 +113,7 @@ d.	35 caballos de potencia a watts
 ![image](https://user-images.githubusercontent.com/84587120/120602755-f098d200-c410-11eb-92e5-f798b2e44680.png)
 
 42.- Realice las operaciones y exprese las respuestas en las unidades que se indican
+
 •	a) 700 µA – 0.4mA =  300 µA  = 0.3 mA 
 
 ![image](https://user-images.githubusercontent.com/84587120/120602813-00b0b180-c411-11eb-9339-9a81164c6521.png)
@@ -119,6 +123,7 @@ d.	35 caballos de potencia a watts
 ![image](https://user-images.githubusercontent.com/84587120/120602876-0e663700-c411-11eb-978e-708420eca069.png)
 
 43.- Realice las operaciones y exprese las respuestas en las unidades que se indican
+
 •	a)  330V + 0.15 kV + 0.2 x 103 V = 680 V
 
 ![image](https://user-images.githubusercontent.com/84587120/120602936-1b832600-c411-11eb-95dc-814cb37fc704.png)
@@ -132,17 +137,20 @@ d.	35 caballos de potencia a watts
 ![image](https://user-images.githubusercontent.com/84587120/120603047-36ee3100-c411-11eb-8113-8622ebcbdfde.png)
 
 El voltaje de la transmisión es 115kV
+
 45.- Se compra un radiador eléctrico de 1500 W para calentar una habitación ¿Cuántos kW es esta cantidad?
 
 ![image](https://user-images.githubusercontent.com/84587120/120603091-440b2000-c411-11eb-92d2-73589bb724a9.png)
 
 El radiador eléctrico tiene una potencia de 1,5 kW
+
 46.- Considere la figura 1-11. Como aprenderá en el capítulo 6. I_4=I_1+I_2+I_3. Si 
 I1 =1.25 mA, I2 = 350 µA e I3 = 250 x 10-5  A, ¿Cuánto vale I4?
 
 ![image](https://user-images.githubusercontent.com/84587120/120603158-5422ff80-c411-11eb-8bd3-29145584cfc3.png)
 
 I4 tiene un valor de 4.1 x 10-3 A
+
 47.- Para La figura 1-12 I1 + I2 – I3 + I4 = 0. Si I1 = 12 A, I2 = 0.150 kA e I4 = 250 x 10-1 A. ¿Cuánto vale I3?
 
 ![image](https://user-images.githubusercontent.com/84587120/120603216-62711b80-c411-11eb-9be3-ba15ee2871e5.png)
@@ -155,6 +163,7 @@ V3 = 20 x 10-4 V. ¿Cuánto vale V4?
 ![image](https://user-images.githubusercontent.com/84587120/120603262-6f8e0a80-c411-11eb-90e9-4daeabf62493.png)
 
 V4 tiene un valor de -0.117 V
+
 49.- Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39 mmdf. Después de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. Consulte la tabla 1-6, ¿Cuál será el valor equivalente a pF de 39 “micromicrofarads”?
 
 ![image](https://user-images.githubusercontent.com/84587120/120603309-7d439000-c411-11eb-83e1-21bf598b45d8.png)
@@ -181,6 +190,7 @@ V4 tiene un valor de -0.117 V
 ![image](https://user-images.githubusercontent.com/84587120/120603597-d4496500-c411-11eb-8938-ebe970e83215.png)
 
 La señal de radio llega primero con un t = 16.66 ms.
+
 52.- En el capítulo 4 aprenderá que la potencia de cd está dada por el producto del voltaje y la corriente, esto es, P = V x I watts,
 •	a) Si V = 50 V e I = 24 mA (ambos valores exactos). ¿Cuánto vale P en watts?
 
@@ -198,6 +208,7 @@ El valor que se obtiene mediante la medición y el resultado obtenido mediante c
 ![image](https://user-images.githubusercontent.com/84587120/120603851-0eb30200-c412-11eb-9e34-e6eab0e3716b.png)
 
 	b) Si el voltaje se mide con un voltímetro como V = 50.0 ± 0.1 volts y la corriente se mide con un amperímetro como I = 24.0 ± 0.1 mA. ¿Qué concluye acerca de R con base en los valores medidos?
+	
 El valor que se obtiene mediante la medición y el resultado obtenido mediante cálculo tiene una incertidumbre de 0.1 por lo tanto el voltaje real de R se encuentra entre  2.08 kΩ y 2.11 kΩ (valor asumido dado por el aparato de medición)
 	
 54.- El componente soldado en el circuito impreso de la figura 1-13(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espacio de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45 mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación
