@@ -648,6 +648,24 @@ El interruptor  es de un solo polo y un solo tiro (SPST, por sus siglas en ingl�
 
 Si se excede la especificación de voltaje del fusible se puede producir un arco cuando se funde.
 
+4.VIDEO
+
+
+5. 	CONCLUSIONES Y RECOMENDACIONES:
+
+Conclusiones: 
+
+* En conclusión hemos podido aprender varios conceptos fundamentales sobre los análisis de circuitos así como entender de mejor manera cómo realizar conversiones, a cómo utilizar el sistema SI de unidades, notación, prefijos que siempre son necesarios para realizar un buen trabajo, así también análisis mediante la tecnología. 
+ Revisamos también partes importantes referente al voltaje y la corriente; y algunos conceptos fundamentales de unidades de medida. 
+      
+Recomendaciones:  
+
+* Se puede mejorar algunas pequeñas cosas como la resolución más detallada de ejercicios del libro ya que puede facilitarnos mucho a los estudiantes en cuanto a conocimiento y realización de proyectos físicos.
+
+6. Bibliografía
+
+Miller, A. H. (2007). Análisis de circuitos. Teoría y práctica. México: CENGAGE Learning.
+
 
 
 	
