@@ -572,9 +572,10 @@ c. ¿Cuál es la corriente en amperes?
 
 La electricidad fluye de dos maneras: ya sea en una Corriente Directa (CD) también conocida como Corriente Continua (CC) o en Corriente Alterna (CA). La electricidad es el movimiento de electrones a través de un conductor, este espacio puede ser un cable, por ejemplo. La diferencia entre ambos tipos se centra en la dirección en la que fluyen los electrones. Cuando hablamos de la CD, los electrones fluyen de manera constante en una sola dirección o, dicho de otra forma, siempre fluyen hacia adelante. En cambio, cuando hablamos de la CA, los electrones cambian constantemente de adelante hacia atrás, es decir oscilan en ambas direcciones en un periodo de tiempo determinado. 
 
-![image](https://user-images.githubusercontent.com/84587120/120612933-4e321c00-c41b-11eb-841a-dfc7e7c6bcb1.png)
 
 35.- Considere tres baterías conectadas como en la figura 2-33.
+
+![image](https://user-images.githubusercontent.com/84587120/120612933-4e321c00-c41b-11eb-841a-dfc7e7c6bcb1.png)
 
 a. Si E_1=1.47V,E_2=1.61V y E_3=1.58 V, ¿cuánto vale E_t?
 
