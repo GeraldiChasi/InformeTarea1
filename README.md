@@ -626,6 +626,8 @@ Voltaje en d) 6V
 
 ![image](https://user-images.githubusercontent.com/84587120/120614038-6e160f80-c41c-11eb-9f43-82926981cf9d.png)
 
+C) Ambos indican correctamente la corriente
+
 44.- ¿Cuál es el error en la aﬁrmación de que el voltaje a través de la lámpara de la ﬁgura 2-24 es 70.3 V?
 
 ![image](https://user-images.githubusercontent.com/84587120/120614100-7cfcc200-c41c-11eb-87b0-efb3e975e80d.png)
