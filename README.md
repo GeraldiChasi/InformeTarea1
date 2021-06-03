@@ -14,6 +14,7 @@ OBJETIVO GENERAL:
 Aprender, conceptos fundamentales sobre el análisis de circuitos eléctricos e implementar estos mismos en la realización de ejercicios y proyectos .
 
 OBJETIVOS ESPECÍFICOS:
+
 Mediante la utilización de simuladores realizar circuitos eléctricos.
 Usar la teoría como implemento para  realizar los diferentes tipos de operaciones matemáticas planteadas en el libro  (Analisis de Circuitos: Teoria y Practica de Allan H. Robbins, Wilhelm C. Miller).
 
@@ -167,84 +168,86 @@ d.	El volumen de una esfera de 10 pulgadas de radio en m3
 	![image](https://user-images.githubusercontent.com/84427371/120610310-a61b5380-c418-11eb-8523-1cabf820bca9.png)
 
 18.      Usted camina por 16 minutos a una velocidad de 1.5 mph, acelera a 3.5 mph por un corto tiempo y disminuye a 3 mph para los últimos 12 minutos. Si la distancia total recorrida es de 1.7 millas, ¿cuánto tiempo caminó a 3.5 mph?
-        
-	[image](https://user-images.githubusercontent.com/84427371/120610527-e2e74a80-c418-11eb-8112-318c86812e51.png)
+  
+  ![image](https://user-images.githubusercontent.com/84427371/120614184-943baf80-c41c-11eb-87d2-f3d228f87b77.png)
+
 
 19.	Su jefe de planta le pide investigar dos máquinas. El costo de electricidad para la operación de la máquina #1 es 43 centavos/minuto, mientras que para la máquina #2 es de $200.00 por turno de 8 horas. El precio de compra, la capacidad de producción, los costos de mantenimiento y la conﬁabilidad a largo plazo de ambas máquinas son idénticos. Con base en esta información, ¿Qué máquina debería comprar y por qué?
-	
-	[image](https://user-images.githubusercontent.com/84427371/120610625-fc889200-c418-11eb-9c17-a375e0d82b57.png)
+
+      ![image](https://user-images.githubusercontent.com/84427371/120614708-22179a80-c41d-11eb-8a6d-5796e70c6b49.png)
 
 20.	Dado que 1 hp= 550 ft-lb/s, 1 ft = 0.3048 m, 1 lb =4.448 N, 1 J = 1 N-m, 1 W = 1 J/s, demuestre que 1 hp = 746 W
 	
-	[image](https://user-images.githubusercontent.com/84427371/120610695-10cc8f00-c419-11eb-9f24-e5878892857a.png)
+	![image](https://user-images.githubusercontent.com/84427371/120614856-4bd0c180-c41d-11eb-82f1-9f01643007cb.png)
+
 	
 21.	Exprese cada una de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:
-	
-	[image](https://user-images.githubusercontent.com/84427371/120610872-3a85b600-c419-11eb-8bae-3807065840e7.png)
+
+       ![image](https://user-images.githubusercontent.com/84427371/120614921-5c813780-c41d-11eb-9f68-4c884e0c0b31.png)
+
 
 22.	Exprese las respuestas de cada una de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:
-	
-	[image](https://user-images.githubusercontent.com/84427371/120611162-7f115180-c419-11eb-86d9-a3ec1cca718d.png)
+
+       ![image](https://user-images.githubusercontent.com/84427371/120615032-77ec4280-c41d-11eb-8c8e-475fc71bde4d.png)
 
 23.	Repita las instrucciones de la pregunta 22 para las siguientes cantidades.
 	
-	[image](https://user-images.githubusercontent.com/84427371/120611223-93554e80-c419-11eb-8d88-802c84da2211.png)
+       ![image](https://user-images.githubusercontent.com/84427371/120615079-84709b00-c41d-11eb-9c37-649d2df36c5d.png)
 
 24.	Determine el resultado de las siguientes operaciones.
 	
-	[image](https://user-images.githubusercontent.com/84427371/120611297-a8ca7880-c419-11eb-9d09-5f763801b3ea.png)
+	![image](https://user-images.githubusercontent.com/84427371/120615127-90f4f380-c41d-11eb-993c-9972ad6002c3.png)
 
 25.	Convierta las siguientes cantidades a notación de potencias de 10 y sin usar la calculadora detenermine la respuesta.
 	
-	[image](https://user-images.githubusercontent.com/84427371/120611339-b5e76780-c419-11eb-8edf-df6db9bc128b.png)
+	![image](https://user-images.githubusercontent.com/84427371/120615160-9a7e5b80-c41d-11eb-90bc-2278792f8ee1.png)
 
 26.	Para cada una de las siguientes cantidades convierta los números a notación de potencias de diez, después realicé los cálculos que se indican. Redondee su respuesta a cuatro dígitos:
 	
-	[image](https://user-images.githubusercontent.com/84427371/120611460-d6172680-c419-11eb-9e06-25c0c492ff35.png)
+	![image](https://user-images.githubusercontent.com/84427371/120615210-a9650e00-c41d-11eb-9134-c190c6829e6b.png)
 
 27.	Realicé lo siguiente
 	
 	a.Convierta los números de notación de potencia de diez, después realiza los cálculos que se indican.
 	
-	[image](https://user-images.githubusercontent.com/84427371/120611599-f8a93f80-c419-11eb-93e2-96b35308536a.png)
+	![image](https://user-images.githubusercontent.com/84427371/120615388-d9acac80-c41d-11eb-97a0-d2b5dddb01d1.png)
 
 28.	Realice la operación directamente en la calculadora sin conversión. ¿Cuál es su conclusión?
 	
-	[image](https://user-images.githubusercontent.com/84427371/120611639-01017a80-c41a-11eb-8b87-f5b7f537c14b.png)
+	![image](https://user-images.githubusercontent.com/84427371/120615498-f517b780-c41d-11eb-8d8e-dae4779181c4.png)
 
 29.	Exprese cada una de las siguientes cantidades de notación convencional:
 	
-	[image](https://user-images.githubusercontent.com/84427371/120611684-0c54a600-c41a-11eb-9f43-936afa824a66.png)
+	![image](https://user-images.githubusercontent.com/84427371/120615534-006ae300-c41e-11eb-8cbf-dd48902b8692.png)
 
 30.     Un columb (capítulo 2) es la cantidad de la carga representada por 6 240 000 
 000 000 000 000 electrones. Exprese esta cantidad en notación de potencia 
 	de diez.
-	
-	[image](https://user-images.githubusercontent.com/84427371/120611733-18406800-c41a-11eb-8add-c90eeabc11d7.png)
+	![image](https://user-images.githubusercontent.com/84427371/120615599-0e206880-c41e-11eb-9262-42ddd0e79d9d.png)
 
 31.	La masa de un electrón es 0.000 000 000 000 000 000 000 000 000 000 899 9 Kg. Exprese esta cifra como una Potencia de 10 con un dígito diferente de cero a la izquierda del punto decimal.
 	
-![image](https://user-images.githubusercontent.com/84427371/120611778-22fafd00-c41a-11eb-9b0d-4548e2f01c1d.png)
+      ![image](https://user-images.githubusercontent.com/84427371/120615705-2b553700-c41e-11eb-99bf-d26be7191e46.png)
 
 32.	Sí 6.24 x 1018 electrones pasan a través de un alambre en un segundo Cuántos pasan a través de él durante un intervalo de 2 hr, 47 min y 10 s?
 	
-	[image](https://user-images.githubusercontent.com/84427371/120613196-9b15f280-c41b-11eb-8190-4657538a553e.png)
+	![image](https://user-images.githubusercontent.com/84427371/120615740-35773580-c41e-11eb-900c-b7e2c16f5b59.png)
 
 33.	Calcula la distancia en metros que viaja la luz en el vacío en 1.2 x 10-8 segundos.
 	
-	[image](https://user-images.githubusercontent.com/84427371/120611900-3efe9e80-c41a-11eb-8749-4252c5b43d1b.png)
+	![image](https://user-images.githubusercontent.com/84427371/120615831-49bb3280-c41e-11eb-87a2-73b2d42e2db3.png)
 
 34.	¿Cuánto tiempo tarda la luz en viajar 3?47 × 105 km en el vacío? 
 	
-	[image](https://user-images.githubusercontent.com/84427371/120611943-4c1b8d80-c41a-11eb-804f-52c8744da2e9.png)
+	![image](https://user-images.githubusercontent.com/84427371/120615860-50e24080-c41e-11eb-87eb-5fa31c2e24d6.png)
 	
 35.	¿Qué tan lejos viaja la luz en km en un año luz?
 
-       [image](https://user-images.githubusercontent.com/84427371/120613294-b680fd80-c41b-11eb-88cc-5b30b929d33d.png)
+      ![image](https://user-images.githubusercontent.com/84427371/120615885-59d31200-c41e-11eb-912c-1a6ec2484b02.png)
 
 36.	Al investigar un sitio para un proyecto hidroeléctrico se determina que el flujo de agua es de 3.73 ×  104 m3 /.       ¿A cuánto equivale esta cantidad en litros/hora?
 	
-        [image](https://user-images.githubusercontent.com/84427371/120613382-d0224500-c41b-11eb-969a-17fb2553c5b1.png)
+    ![image](https://user-images.githubusercontent.com/84427371/120615922-648da700-c41e-11eb-9e51-eddfe1bb4812.png)
 
 1-5 Prefijo, notación de ingeniería y resultados numéricos
 37.- ¿Cuál es el prefijo apropiado y su abreviatura para cada uno de los siguientes multiplicadores?
